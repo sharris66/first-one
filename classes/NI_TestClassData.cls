@@ -1,9 +1,9 @@
 /****************************************************************************************
 Name            : NI_TestClassData Class
-Author          : Sean Harris
+Author          : 
 Created Date    : 11/21/2012
 Last Mod Date   : 5/7/2014 
-Last Mod By     : Stuart Emery
+Last Mod By     : 
 NICC Reference  : 
 Description     : Test Class for other test classes to point to when creating test data
                 : 
